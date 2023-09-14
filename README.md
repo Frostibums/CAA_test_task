@@ -4,12 +4,12 @@ Task: Create a Candlestick Chart and Calculate the Exponential Moving Average (E
 ## Usage
 1. Clone this repository using following comand:
 ```sh
-git clone https://github.com/your-username/candlestick-ema.git
+git clone https://github.com/Frostibums/CAA_test_task.git
 ```
 
 2. Navigate to the project directory:
 ```sh
-cd candlestick-ema
+cd CAA_test_task
 ```
 
 3. Install all required dependencies:
